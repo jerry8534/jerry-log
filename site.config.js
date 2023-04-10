@@ -7,13 +7,13 @@ const CONFIG = {
     bio: "I develop everything using java.",
     email: "jerryjjinu@gmail.com",
     linkedin: "",
-    github: "https://github.com/jerry8534",
+    github: "/jerry8534",
     instagram: "",
   },
   projects: [
     {
       name: `jerry-log`,
-      href: "https://github.com/jerry8534",
+      href: "https://jerry-log.vercel.app/",
     },
   ],
   // blog setting (required)
